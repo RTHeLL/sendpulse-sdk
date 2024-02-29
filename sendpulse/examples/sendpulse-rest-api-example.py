@@ -7,7 +7,7 @@ Documentation:
     https://sendpulse.com/api
 """
 
-from pysendpulse.pysendpulse import PySendPulse
+from sendpulse.pysendpulse import PySendPulse
 
 if __name__ == "__main__":
     REST_API_ID = ''

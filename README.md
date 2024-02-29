@@ -7,7 +7,7 @@ A simple SendPulse REST client library and example for Python.
 ## Install using pipy
 
 ```sh
-pip install pysendpulse
+pip install sendpulse
 ```
 
 ## Examples
